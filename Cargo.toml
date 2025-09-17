@@ -1,0 +1,24 @@
+[workspace]
+members = [
+    # ch02
+    "just-do-rust/ch02/ch021",
+    "just-do-rust/ch02/ch022",
+    # ch03
+    "just-do-rust/ch03/ch031/main-param",
+    "just-do-rust/ch03/ch031/print-println",
+    "just-do-rust/ch03/ch032/const-declaration",
+    "just-do-rust/ch03/ch032/mut-var",
+    "just-do-rust/ch03/ch032/variable-declaration",
+    "just-do-rust/ch03/ch033/compound",
+    "just-do-rust/ch03/ch033/data-type",
+    "just-do-rust/ch03/ch033/scalar",
+    "just-do-rust/ch03/ch034",
+    "just-do-rust/ch03/ch035/closure",
+    "just-do-rust/ch03/ch035/funtion",
+    "just-do-rust/ch03/ch035/macro-explain",
+    "just-do-rust/ch03/ch035/method",
+    "just-do-rust/ch03/ch036/for-statement",
+    "just-do-rust/ch03/ch036/if-statement",
+    "just-do-rust/ch03/ch036/loop-statement",
+    "just-do-rust/ch03/ch036/match-if-let", "just-do-rust/ch03/ch036/while-statement",
+]
