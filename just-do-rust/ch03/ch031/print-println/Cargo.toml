@@ -1,5 +1,5 @@
 [package]
-name = "data_type"
+name = "print-println"
 version = "0.1.0"
 edition = "2024"
 

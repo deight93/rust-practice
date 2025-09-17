@@ -1,5 +1,5 @@
 [package]
-name = "mut_var"
+name = "mut-var"
 version = "0.1.0"
 edition = "2024"
 

@@ -1,5 +1,5 @@
 [package]
-name = "const_declaration"
+name = "variable-declaration"
 version = "0.1.0"
 edition = "2024"
 
