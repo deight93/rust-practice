@@ -20,5 +20,5 @@ members = [
     "just-do-rust/ch03/ch036/for-statement",
     "just-do-rust/ch03/ch036/if-statement",
     "just-do-rust/ch03/ch036/loop-statement",
-    "just-do-rust/ch03/ch036/match-if-let", "just-do-rust/ch03/ch036/while-statement", "just-do-rust/ch03/ch037/hashmap", "just-do-rust/ch03/ch037/hashset", "just-do-rust/ch03/ch037/vector", "just-do-rust/ch03/ch038/ampersand-str", "just-do-rust/ch03/ch038/string",
+    "just-do-rust/ch03/ch036/match-if-let", "just-do-rust/ch03/ch036/while-statement", "just-do-rust/ch03/ch037/hashmap", "just-do-rust/ch03/ch037/hashset", "just-do-rust/ch03/ch037/vector", "just-do-rust/ch03/ch038/additional-infomation-string", "just-do-rust/ch03/ch038/ampersand-str", "just-do-rust/ch03/ch038/ampersand-str-and-string", "just-do-rust/ch03/ch038/rust-string-example", "just-do-rust/ch03/ch038/string",
 ]
