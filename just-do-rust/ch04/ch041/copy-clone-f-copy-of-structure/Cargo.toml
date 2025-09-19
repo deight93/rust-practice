@@ -1,0 +1,6 @@
+[package]
+name = "copy-clone-f-copy-of-structure"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

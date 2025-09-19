@@ -1,10 +1,12 @@
 # rust-practice
+
 Rust 학습
 
 - https://doc.rust-kr.org/
+- https://wikidocs.net/book/16747 (Just Do Rust)
 
 1. 1회독
-    20장 까지
+   20장 까지
 2. 2회독
     1. 각 장마다 내용 MD로 정리
 3. 3회독
