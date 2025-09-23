@@ -61,5 +61,5 @@ members = [
     "just-do-rust/ch04/ch044/trait-item-concept",
     "just-do-rust/ch04/ch044/trait-usage-implement",
     "just-do-rust/ch04/ch044/trait-usage-define",
-    "just-do-rust/ch04/ch044/trait-auto-implement-derive", "just-do-rust/ch04/ch044/trait-bound", "just-do-rust/ch04/ch044/trait-associated-type",
+    "just-do-rust/ch04/ch044/trait-auto-implement-derive", "just-do-rust/ch04/ch044/trait-bound", "just-do-rust/ch04/ch044/trait-associated-type", "just-do-rust/ch04/ch044/polymorphism", "just-do-rust/ch04/ch044/impl-trait", "just-do-rust/ch04/ch044/box-dyn-trait",
 ]
