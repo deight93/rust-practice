@@ -39,6 +39,7 @@ members = [
     "just-do-rust/ch03/ch039/map",
     "just-do-rust/ch03/ch039/middle-example",
     "just-do-rust/ch03/ch039/take-while",
+    # ch04
     "just-do-rust/ch04/ch040",
     "just-do-rust/ch04/ch041/memory",
     "just-do-rust/ch04/ch041/ownership",
@@ -79,4 +80,7 @@ members = [
     "just-do-rust/ch04/ch046/box-a",
     "just-do-rust/ch04/ch046/box-b",
     "just-do-rust/ch04/ch046/box-c",
+    "just-do-rust/ch04/ch047/error-handling-result-option",
+    "just-do-rust/ch04/ch047/error-delegation",
+    "just-do-rust/ch04/ch047/integer-overflow",
 ]
