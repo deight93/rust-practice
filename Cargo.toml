@@ -87,4 +87,6 @@ members = [
     "just-do-rust/ch04/ch048/package",
     "just-do-rust/ch04/ch048/module-crate",
     "just-do-rust/ch04/ch048/module",
+    "just-do-rust/ch04/ch049/question-mark-sized-meaning",
+    "just-do-rust/ch04/ch049/deref-deep-dive",
 ]
