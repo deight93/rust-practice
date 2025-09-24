@@ -83,4 +83,8 @@ members = [
     "just-do-rust/ch04/ch047/error-handling-result-option",
     "just-do-rust/ch04/ch047/error-delegation",
     "just-do-rust/ch04/ch047/integer-overflow",
+    "just-do-rust/ch04/ch048/project",
+    "just-do-rust/ch04/ch048/package",
+    "just-do-rust/ch04/ch048/module-crate",
+    "just-do-rust/ch04/ch048/module",
 ]
